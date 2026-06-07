@@ -238,7 +238,6 @@ header{
 }
 
 /*  */
-
 .tovar{
     padding: 80px 0;
     text-align: center;
@@ -326,7 +325,7 @@ header{
     padding: 30px 25px;
     display: flex;
     flex-direction: column; 
-    text-align: left; /* По левосу краю */
+    text-align: left; 
 }
 
 .otzov-stars{
